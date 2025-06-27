@@ -1,0 +1,15 @@
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\bin\Debug\ChatbotWpfPOE.exe.config
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\bin\Debug\ChatbotWpfPOE.exe
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\bin\Debug\ChatbotWpfPOE.pdb
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE_MarkupCompile.cache
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE_MarkupCompile.lref
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.g.resources
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.Properties.Resources.resources
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.exe
+C:\Users\RC_Student_lab\Desktop\ST10449303 PROG6221 FINAL POE PART3\ChatbotWpfPOE\obj\Debug\ChatbotWpfPOE.pdb
